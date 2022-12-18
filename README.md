@@ -10,7 +10,7 @@ https://youtube.com/shorts/9MqsD5-Ywug
 # Prototyyppi 2.0 16-ledillä
 https://youtube.com/shorts/93RFbZx7E_I
 
-# Valmistunut työ. Videon esittely
+# Valmistunut työ ja sen esittely
 *Linkki tulossa*
 
 Tekijät: Jaakko Kauppila. Sami Köngäs, Lara Laamanen, Pietari Heikkilä

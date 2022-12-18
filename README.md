@@ -1,4 +1,4 @@
-# Arduino-Roulette
+# Arduino Ruletti
 2. Periodin projektityö, OAMK, Tieto- ja viestintätekniikka
 
 # Prototyyppi 8-ledillä

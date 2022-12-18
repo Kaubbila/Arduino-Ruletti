@@ -13,4 +13,4 @@ https://youtube.com/shorts/93RFbZx7E_I
 # Valmistunut työ ja sen esittely
 *Linkki tulossa*
 
-Tekijät: Jaakko Kauppila. Sami Köngäs, Lara Laamanen, Pietari Heikkilä
+Tekijät: Jaakko Kauppila, Sami Köngäs, Lara Laamanen, Pietari Heikkilä

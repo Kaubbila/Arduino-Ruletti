@@ -1,8 +1,10 @@
 # Arduino Ruletti
-Ensimmäisen vuoden opiskelijoiden tekemä projektityö.
-Ruletti toimii painamalla nappia tai heilauttamalla kättä ultraäänisensorin edessä.
-Ruletissa on myös kytkin, josta voidaan valita nopea tai hidas pyöräytys. 
 OAMK, Tieto- ja viestintätekniikka
+Ensimmäisen vuoden opiskelijoiden tekemä projektityö.
+
+Ruletti toimii viidellä 74HC595 shift-rekisterillä.
+Ruletin pyöräytys tapahtuu painamalla nappia tai heilauttamalla kättä ultraäänisensorin edessä.
+Ruletissa on myös näyttö ja kytkin, josta voidaan valita nopea tai hidas pyöräytys ja se ilmoitetaan näytöllä.
 
 # Prototyyppi 8-ledillä
 https://youtube.com/shorts/9MqsD5-Ywug
@@ -11,6 +13,6 @@ https://youtube.com/shorts/9MqsD5-Ywug
 https://youtube.com/shorts/93RFbZx7E_I
 
 # Valmistunut työ ja sen esittely
-*Linkki tulossa*
+https://youtu.be/eSXP0HHrl14
 
 Tekijät: Jaakko Kauppila, Sami Köngäs, Lara Laamanen, Pietari Heikkilä

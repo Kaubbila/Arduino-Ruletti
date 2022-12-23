@@ -1,6 +1,6 @@
 # Arduino Ruletti
-OAMK, Tieto- ja viestintätekniikka
-Ensimmäisen vuoden opiskelijoiden tekemä projektityö.
+#OAMK, Tieto- ja viestintätekniikka. 
+#Ensimmäisen vuoden opiskelijoiden tekemä projektityö.
 
 Ruletti toimii viidellä 74HC595 shift-rekisterillä.
 Ruletin pyöräytys tapahtuu painamalla nappia tai heilauttamalla kättä ultraäänisensorin edessä.

@@ -16,3 +16,23 @@ https://youtube.com/shorts/93RFbZx7E_I
 https://youtu.be/eSXP0HHrl14
 
 Tekijät: Jaakko Kauppila, Sami Köngäs, Lara Laamanen, Pietari Heikkilä
+
+***In english***
+# Arduino Roulette
+OAMK, Information and communication technology <br />
+Project work done by first-year students
+
+Roulette works with five 74HC595 shift registers. <br />
+Roulette starts spinning by pressing a button or by swinging your hand in front of the ultrasound sensor. <br />
+The roulette also has a screen and a switch, from which you can choose a fast or slow spin and it is shown on the screen. <br />
+
+# Prototype with 8-leds
+https://youtube.com/shorts/9MqsD5-Ywug
+
+# Prototype 2.0 with 16-leds
+https://youtube.com/shorts/93RFbZx7E_I
+
+# Finished project
+https://youtu.be/eSXP0HHrl14
+
+Made by: Jaakko Kauppila, Sami Köngäs, Lara Laamanen, Pietari Heikkilä

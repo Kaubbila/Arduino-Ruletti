@@ -20,8 +20,8 @@ Tekijät: Jaakko Kauppila, Sami Köngäs, Lara Laamanen, Pietari Heikkilä
 ------IN ENGLISH-----
 
 # Arduino Roulette
-OAMK, Information and communication technology <br />
-Project work done by first-year students
+OAMK, Engineering, Information technology <br />
+School project work done by first-year students
 
 Roulette works with five 74HC595 shift registers. <br />
 Roulette starts spinning by pressing a button or by swinging your hand in front of the ultrasound sensor. <br />

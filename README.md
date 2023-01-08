@@ -17,7 +17,8 @@ https://youtu.be/eSXP0HHrl14
 
 Tekijät: Jaakko Kauppila, Sami Köngäs, Lara Laamanen, Pietari Heikkilä
 
-***In english***
+------IN ENGLISH-----
+
 # Arduino Roulette
 OAMK, Information and communication technology <br />
 Project work done by first-year students
